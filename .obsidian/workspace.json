@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/Git Basics/Git basics.md",
+                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/Git Basics/Git basics.md",
+                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/Git Basics/Git basics.md",
+                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/Git Basics/Git basics.md"
+                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md"
               }
             }
           }
@@ -161,6 +161,13 @@
   },
   "active": "557435b00f153590",
   "lastOpenFiles": [
+    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 1 - Day 6.md",
+    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md",
+    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Untitled",
+    "Permanent Notes/SlightllyTechie School Java/Basic Linux Commands.md",
+    "Permanent Notes/Thinking for a change.md",
+    "Permanent Notes/The Pragmatic Programmer.md",
+    "Permanent Notes/SlightllyTechie School Java/Git Basics/Git basics.md",
     "Literature Notes/Mailer with Concurrency and batch sending.md",
     "Fleeting Notes/Requirement for QR Code in Rails.md",
     "Permanent Notes/Generate QR Code/Process for Generating QR Code in Rails.md",
@@ -169,13 +176,8 @@
     "Fleeting Notes/Rails best practices.md",
     "Fleeting Notes/How to make Pancakes.md",
     "Fleeting Notes/Anatomy of Zettlekasten.md",
-    "Permanent Notes/SlightllyTechie School Java/Git Basics/Git basics.md",
-    "Permanent Notes/SlightllyTechie School Java/Basic Linux Commands.md",
     "Permanent Notes/SlightllyTechie School Java/Git Basics",
     "Permanent Notes/SlightllyTechie School Java/Untitled.md",
-    "Permanent Notes/The Pragmatic Programmer.md",
-    "Permanent Notes/Thinking for a change.md",
-    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 1 - Day 6.md",
     "Templates/100 days of Code Template.md",
     "Templates/Note Template.md",
     "Templates/Map of Content.md",
@@ -193,7 +195,6 @@
     "Untitled.md",
     "2024-07-04.md",
     "Templates",
-    "Permanent Notes",
-    "Literature Notes"
+    "Permanent Notes"
   ]
 }

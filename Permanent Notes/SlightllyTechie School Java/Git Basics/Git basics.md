@@ -18,3 +18,14 @@ git push = pushes the code from the commit to github.
 
 git rebase = changing the base of the commit to the current commit. it will bring all the commits to the branch you are rebasing on.
 
+
+**COMMAND FOR CHANGING DIRECTORIES TO WINDOWS OBSIDIAN**
+"cd /mnt/c/Users/admin/OneDrive/Documents/Obsidian\ Vault"
+
+GIT REMOTE
+git remote it does not necessarily mean a repo that can be accessed over the internet. it could be local too. it just means a copy of your repo at a different location be it another computer or a directory. 
+
+FORKING A PROJECT
+copying a project into your local space.
+
+after you do a git fetch you don't have to do a git pull again cos you have already updated your refs so you just do git merge
