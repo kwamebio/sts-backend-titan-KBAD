@@ -1,6 +1,7 @@
 #Untitled
 Created: 2024-07-04 21:27
 
+[[Basic Linux Commands]]
 ##References
 1. what is ssh? Secure shell protocol. Port 22 is also known as ssh. 
 2. most of the time servers that our applications are deployed on are linux servers and knowing your way around it makes your a better engineer.

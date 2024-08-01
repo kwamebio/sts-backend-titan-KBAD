@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/Basic Linux Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "557435b00f153590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md",
+                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 1 - Day 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md",
+                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 1 - Day 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md",
+                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 1 - Day 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md"
+                "file": "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 1 - Day 6.md"
               }
             }
           }
@@ -159,25 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "557435b00f153590",
+  "active": "bee047a7e0d47cdd",
   "lastOpenFiles": [
-    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 1 - Day 6.md",
-    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7-9.md",
-    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Untitled",
     "Permanent Notes/SlightllyTechie School Java/Basic Linux Commands.md",
+    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 7- Day 11.md",
+    "Permanent Notes/SlightllyTechie School Java/How the Internet works.md",
+    "Fleeting Notes/Why mongoDB and why Firebase.md",
+    "Permanent Notes/SlightllyTechie School Java/Git Basics/Git basics.md",
+    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Day 1 - Day 6.md",
+    "Literature Notes/Basic Linux and Command Line.md",
+    "Fleeting Notes/TOPICS TO READ AND LEARN ON.md",
+    "Literature Notes/Linux.md",
+    "Permanent Notes/SlightllyTechie School Java/100daysOfCode/Untitled",
     "Permanent Notes/Thinking for a change.md",
     "Permanent Notes/The Pragmatic Programmer.md",
-    "Permanent Notes/SlightllyTechie School Java/Git Basics/Git basics.md",
     "Literature Notes/Mailer with Concurrency and batch sending.md",
     "Fleeting Notes/Requirement for QR Code in Rails.md",
     "Permanent Notes/Generate QR Code/Process for Generating QR Code in Rails.md",
     "Permanent Notes/Generate QR Code/Generate QR Code in Rails.md",
-    "Fleeting Notes/Why mongoDB and why Firebase.md",
     "Fleeting Notes/Rails best practices.md",
     "Fleeting Notes/How to make Pancakes.md",
     "Fleeting Notes/Anatomy of Zettlekasten.md",
     "Permanent Notes/SlightllyTechie School Java/Git Basics",
-    "Permanent Notes/SlightllyTechie School Java/Untitled.md",
     "Templates/100 days of Code Template.md",
     "Templates/Note Template.md",
     "Templates/Map of Content.md",
@@ -185,7 +175,6 @@
     "Permanent Notes/SlightllyTechie School Java",
     "Permanent Notes/Generate QR Code/Requirements for Generating QR Code in Rails.md",
     "Permanent Notes/Untitled",
-    "Literature Notes/Basic Linux and Command Line.md",
     "Literature Notes/Untitled",
     "Permanent Notes/Generate QR Code/How to Generate QR code in Ruby on Rails.md",
     "Permanent Notes/Generate QR Code",
